@@ -624,4 +624,883 @@
 "correct": 0,
 "explanation": "Abi mediacijos rūšys grindžiamos konfidencialumu, savanoriškumu ir neutralumu."
 }
+,
+{
+"id": 49,
+"category": "Teisminės mediacijos principai",
+"question": "Kokią funkciją atlieka teisminės mediacijos principai?",
+"options": [
+"Jie nustato tik mediatoriaus atlyginimo dydį",
+"Jie užtikrina proceso kokybę, teisėtumą ir šalių pasitikėjimą mediacija",
+"Jie pakeičia Civilinio proceso kodekso normas",
+"Jie leidžia mediatoriui priimti privalomą sprendimą"
+],
+"correct": 1,
+"explanation": "Principai padeda užtikrinti mediacijos proceso teisėtumą, kokybę ir šalių pasitikėjimą procedūra."
+},
+{
+"id": 50,
+"category": "Savanoriškumo principas",
+"question": "Ką reiškia savanoriškumo principas teisminėje mediacijoje?",
+"options": [
+"Šalys privalo pasiekti taikos sutartį",
+"Šalys laisvai apsisprendžia dalyvauti mediacijoje ir gali iš jos pasitraukti",
+"Mediatorius gali įpareigoti šalis susitarti",
+"Teismas visada pats nusprendžia dėl susitarimo turinio"
+],
+"correct": 1,
+"explanation": "Savanoriškumas reiškia, kad šalys pačios sprendžia dėl dalyvavimo mediacijoje ir gali iš jos pasitraukti."
+},
+{
+"id": 51,
+"category": "Savanoriškumo principas",
+"question": "Kodėl savanoriškumo principas svarbus šeimos ginčuose?",
+"options": [
+"Nes jis leidžia šalims prisiimti atsakomybę už jų pačių susitarimą",
+"Nes jis panaikina vaiko interesų apsaugą",
+"Nes jis leidžia teismui nebepriimti jokių procesinių sprendimų",
+"Nes jis verčia šalis atsisakyti advokatų pagalbos"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose svarbu, kad šalys pačios dalyvautų sprendimo paieškoje ir prisiimtų atsakomybę už susitarimą."
+},
+{
+"id": 52,
+"category": "Konfidencialumo principas",
+"question": "Ką reiškia konfidencialumo principas mediacijoje?",
+"options": [
+"Visa mediacijos informacija skelbiama viešai",
+"Mediacijos metu atskleista informacija paprastai negali būti viešinama ar naudojama prieš šalis",
+"Mediatorius privalo perduoti visą informaciją žiniasklaidai",
+"Teismas privalo iš karto paskelbti šalių derybų turinį"
+],
+"correct": 1,
+"explanation": "Konfidencialumas leidžia šalims atviriau kalbėtis, nes mediacijos metu atskleista informacija yra saugoma."
+},
+{
+"id": 53,
+"category": "Konfidencialumo principas",
+"question": "Kodėl konfidencialumas ypač svarbus šeimos ginčuose?",
+"options": [
+"Nes šeimos ginčai dažnai susiję su jautria asmenine informacija",
+"Nes šeimos bylos visada turi būti nagrinėjamos viešai",
+"Nes konfidencialumas leidžia išvengti mediatoriaus dalyvavimo",
+"Nes jis panaikina šalių pareigą bendradarbiauti"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose dažnai aptariami privatūs ir jautrūs santykiai, todėl konfidencialumas yra itin svarbus."
+},
+{
+"id": 54,
+"category": "Abipusės pagarbos principas",
+"question": "Ką mediacijos procese reiškia abipusės pagarbos, tolerancijos ir pakantumo principas?",
+"options": [
+"Šalys turi teisę ignoruoti viena kitą",
+"Šalys turi bendrauti pagarbiai ir siekti konstruktyvaus dialogo",
+"Mediatorius turi palaikyti stipresnę šalį",
+"Teismas turi uždrausti šalims kalbėtis tiesiogiai"
+],
+"correct": 1,
+"explanation": "Šis principas reiškia pagarbų šalių bendravimą ir konstruktyvaus dialogo siekį."
+},
+{
+"id": 55,
+"category": "Abipusės pagarbos principas",
+"question": "Kodėl abipusės pagarbos principas reikšmingas būtent šeimos ginčuose?",
+"options": [
+"Nes šeimos ginčuose dažnai išlieka poreikis bendrauti ir po ginčo pabaigos",
+"Nes šeimos ginčuose nebūna emocijų",
+"Nes šis principas leidžia netaikyti teisės aktų",
+"Nes jis taikomas tik komercinėse bylose"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose šalys dažnai turi bendrauti ir ateityje, ypač kai yra vaikų."
+},
+{
+"id": 56,
+"category": "Mediatoriaus nešališkumas ir neutralumas",
+"question": "Ką reiškia mediatoriaus nešališkumas?",
+"options": [
+"Mediatorius turi palaikyti ieškovą",
+"Mediatorius turi palaikyti atsakovą",
+"Mediatorius neturi būti suinteresuotas vienos šalies pergale",
+"Mediatorius privalo nuspręsti, kuri šalis teisi"
+],
+"correct": 2,
+"explanation": "Nešališkumas reiškia, kad mediatorius nepalaiko nė vienos ginčo šalies."
+},
+{
+"id": 57,
+"category": "Mediatoriaus nešališkumas ir neutralumas",
+"question": "Kuo neutralumas skiriasi nuo mediatoriaus sprendimo priėmimo?",
+"options": [
+"Neutralus mediatorius padeda šalims susikalbėti, bet nepriima privalomo sprendimo",
+"Neutralus mediatorius visada paskiria kaltąją šalį",
+"Neutralumas reiškia, kad mediatorius nedalyvauja procese",
+"Neutralumas leidžia mediatoriui pakeisti teisėją"
+],
+"correct": 0,
+"explanation": "Mediatorius padeda procesui ir dialogui, bet pats nesprendžia ginčo už šalis."
+},
+{
+"id": 58,
+"category": "Kooperavimosi principas",
+"question": "Ką reiškia kooperavimosi principas mediacijoje?",
+"options": [
+"Šalys turi varžytis dėl palankesnio sprendimo",
+"Šalys turi bendradarbiauti ieškodamos abiem priimtino sprendimo",
+"Mediatorius turi surašyti ieškinį vienai šaliai",
+"Teismas turi nutraukti visus šalių kontaktus"
+],
+"correct": 1,
+"explanation": "Kooperavimosi principas skatina šalis bendradarbiauti, o ne tik priešintis viena kitai."
+},
+{
+"id": 59,
+"category": "Kooperavimosi principas",
+"question": "Kodėl kooperavimosi principas svarbus siekiant tvaraus susitarimo?",
+"options": [
+"Nes tvarus susitarimas dažniausiai reikalauja abiejų šalių įsitraukimo",
+"Nes jis leidžia vienai šaliai primesti sąlygas kitai",
+"Nes jis panaikina mediatoriaus vaidmenį",
+"Nes jis taikomas tik administracinėse bylose"
+],
+"correct": 0,
+"explanation": "Tvarus susitarimas labiau tikėtinas tada, kai abi šalys aktyviai dalyvauja jo kūrime."
+},
+{
+"id": 60,
+"category": "Mediatoriaus kvalifikuotos veiklos principas",
+"question": "Ką reiškia mediatoriaus kvalifikuotos veiklos principas?",
+"options": [
+"Mediatorius gali veikti be jokių žinių",
+"Mediatorius turi turėti reikalingą kompetenciją ir laikytis profesinių reikalavimų",
+"Mediatorius turi būti tik advokatas",
+"Mediatorius privalo priimti galutinį teismo sprendimą"
+],
+"correct": 1,
+"explanation": "Mediatorius turi veikti profesionaliai, kompetentingai ir laikytis mediatoriaus veiklai keliamų reikalavimų."
+},
+{
+"id": 61,
+"category": "Mediatoriaus kvalifikuotos veiklos principas",
+"question": "Kodėl mediatoriaus kvalifikacija svarbi šeimos bylose?",
+"options": [
+"Nes šeimos bylose dažnai reikia valdyti emocinę įtampą ir jautrius interesus",
+"Nes šeimos bylose mediatorius visada pakeičia psichologą",
+"Nes kvalifikacija reikalinga tik baudžiamosiose bylose",
+"Nes šeimos ginčai neturi teisinės reikšmės"
+],
+"correct": 0,
+"explanation": "Šeimos ginčai yra jautrūs, todėl mediatoriui reikia gebėti valdyti sudėtingą emocinę ir teisinę situaciją."
+},
+{
+"id": 62,
+"category": "Sąžiningumo principas",
+"question": "Ką reiškia sąžiningumo principas mediacijos procese?",
+"options": [
+"Šalys ir mediatorius turi veikti sąžiningai ir nepiktnaudžiauti procesu",
+"Šalys turi slėpti visą informaciją viena nuo kitos",
+"Mediatorius turi siekti vienos šalies pergalės",
+"Sąžiningumas taikomas tik sudarius sutartį"
+],
+"correct": 0,
+"explanation": "Sąžiningumas reiškia pareigą nepiktnaudžiauti mediacija ir veikti geranoriškai."
+},
+{
+"id": 63,
+"category": "Sąžiningumo principas",
+"question": "Koks elgesys prieštarautų sąžiningumo principui mediacijoje?",
+"options": [
+"Atviras interesų išsakymas",
+"Bandymas naudoti mediaciją tik procesui vilkinti",
+"Pagarbus bendravimas su kita šalimi",
+"Siekis rasti abiem priimtiną sprendimą"
+],
+"correct": 1,
+"explanation": "Mediacijos naudojimas vien bylos vilkinimui prieštarautų sąžiningumo principui."
+},
+{
+"id": 64,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Koks yra pageidaujamas teisminės mediacijos rezultatas?",
+"options": [
+"Taikos sutarties sudarymas",
+"Baudžiamojo nuosprendžio priėmimas",
+"Administracinės nuobaudos paskyrimas",
+"Ginčo perdavimas prokurorui"
+],
+"correct": 0,
+"explanation": "Teisminės mediacijos siekiamas rezultatas yra taikus susitarimas, dažnai įforminamas taikos sutartimi."
+},
+{
+"id": 65,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Ar teisminė mediacija visada turi baigtis taikos sutartimi?",
+"options": [
+"Taip, kitaip ji laikoma neteisėta",
+"Ne, mediacija gali baigtis ir nepasiekus susitarimo",
+"Taip, nes mediatorius privalo priversti šalis susitarti",
+"Ne, nes mediacijoje apskritai negalima susitarti"
+],
+"correct": 1,
+"explanation": "Mediacija gali baigtis ir be susitarimo, nes šalys nėra verčiamos susitarti."
+},
+{
+"id": 66,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Kas nutinka, jei teisminėje mediacijoje susitarimo pasiekti nepavyksta?",
+"options": [
+"Byla gali būti toliau nagrinėjama teisme",
+"Šalys netenka teisės į teismą",
+"Mediatorius skiria baudą",
+"Ginčas automatiškai laikomas išspręstu"
+],
+"correct": 0,
+"explanation": "Nepavykus susitarti, byla gali būti toliau nagrinėjama teisme įprasta tvarka."
+},
+{
+"id": 67,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Kodėl taikos sutartis šeimos ginčuose gali būti vertingesnė nei vien formalus teismo sprendimas?",
+"options": [
+"Nes ji gali geriau atspindėti realius šalių poreikius ir santykių tęstinumą",
+"Nes ji panaikina vaikų teises",
+"Nes ji visada sudaroma be teismo kontrolės",
+"Nes ji neturi jokios teisinės reikšmės"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose susitarimas gali labiau atitikti konkrečios šeimos poreikius ir padėti išlaikyti bendravimą."
+},
+{
+"id": 68,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Koks yra teismo vaidmuo tvirtinant mediacijos metu pasiektą susitarimą?",
+"options": [
+"Teismas patikrina, ar susitarimas neprieštarauja įstatymams ir viešajam interesui",
+"Teismas automatiškai tvirtina bet kokį susitarimą",
+"Teismas visada atmeta mediacijos susitarimą",
+"Teismas pakeičia mediatorių kita ginčo šalimi"
+],
+"correct": 0,
+"explanation": "Teismas turi įvertinti, ar taikos sutartis neprieštarauja įstatymams ir nepažeidžia saugomų interesų."
+},
+{
+"id": 69,
+"category": "Teisminės mediacijos pabaiga",
+"question": "Kodėl šeimos bylose svarbu vertinti vaiko interesus tvirtinant susitarimą?",
+"options": [
+"Nes vaiko interesai yra vienas iš svarbiausių šeimos ginčų vertinimo kriterijų",
+"Nes vaiko interesai šeimos bylose neturi reikšmės",
+"Nes mediatorius visada atstovauja tik vaikui",
+"Nes teismas negali vertinti šeimos susitarimų"
+],
+"correct": 0,
+"explanation": "Šeimos bylose susitarimai negali pažeisti vaiko interesų, todėl jie turi būti įvertinti."
+},
+{
+"id": 70,
+"category": "Gynimo klausimai",
+"question": "Kaip trumpai paaiškintumėte, kodėl mediacija šeimos bylose yra tinkama alternatyva teismo procesui?",
+"options": [
+"Nes ji padeda ne tik spręsti teisinį klausimą, bet ir išsaugoti šalių bendravimą",
+"Nes ji visiškai panaikina teismo kontrolę",
+"Nes ji leidžia vienai šaliai laimėti be įrodymų",
+"Nes ji taikoma tik turtiniams ginčams"
+],
+"correct": 0,
+"explanation": "Mediacija šeimos bylose vertinga todėl, kad padeda ieškoti dialogu pagrįsto ir tvaresnio sprendimo."
+},
+{
+"id": 71,
+"category": "Gynimo klausimai",
+"question": "Kuris atsakymas geriausiai paaiškina mediatoriaus vaidmenį?",
+"options": [
+"Mediatorius padeda šalims kalbėtis ir ieškoti susitarimo, bet nesprendžia ginčo už jas",
+"Mediatorius priima privalomą sprendimą kaip teisėjas",
+"Mediatorius atstovauja vienai ginčo šaliai",
+"Mediatorius surašo kaltinamąjį aktą"
+],
+"correct": 0,
+"explanation": "Mediatorius yra proceso pagalbininkas, o ne sprendimą priimanti institucija."
+},
+{
+"id": 72,
+"category": "Gynimo klausimai",
+"question": "Kokia rizika kyla, jeigu mediacijos procese neužtikrinamas neutralumas?",
+"options": [
+"Šalys gali prarasti pasitikėjimą mediacijos procesu",
+"Mediacija tampa greitesnė",
+"Susitarimas visada tampa teisėtas",
+"Teismas nebegali nagrinėti bylos"
+],
+"correct": 0,
+"explanation": "Jeigu mediatorius nėra neutralus, šalys gali nepasitikėti procesu ir nesiekti konstruktyvaus susitarimo."
+},
+{
+"id": 73,
+"category": "Gynimo klausimai",
+"question": "Kodėl vien teisės normų taikymo šeimos ginčuose gali nepakakti?",
+"options": [
+"Nes šeimos ginčuose svarbūs ir emociniai, santykių bei vaikų interesų aspektai",
+"Nes šeimos ginčai nėra teisiniai ginčai",
+"Nes mediacija panaikina teisės normas",
+"Nes teismas neturi kompetencijos nagrinėti šeimos bylų"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose svarbūs ne tik teisiniai, bet ir emociniai bei santykių aspektai."
+},
+{
+"id": 74,
+"category": "Gynimo klausimai",
+"question": "Kuris teiginys geriausiai apibūdina sėkmingą mediaciją šeimos ginče?",
+"options": [
+"Sėkmė matuojama ne tik susitarimu, bet ir galimybe šalims toliau konstruktyviai bendrauti",
+"Sėkmė matuojama tik tuo, kuri šalis daugiau laimi",
+"Sėkmė reiškia, kad teismas visada atsisako bylos",
+"Sėkmė reiškia, kad mediatorius pats nusprendžia ginčą"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose svarbu ne tik formalus rezultatas, bet ir tolesnio bendravimo galimybė."
+},
+{
+"id": 75,
+"category": "Gynimo klausimai",
+"question": "Kuris principas labiausiai susijęs su šalių atvirumu mediacijos metu?",
+"options": [
+"Konfidencialumo principas",
+"Viešumo principas",
+"Baudžiamumo principas",
+"Hierarchijos principas"
+],
+"correct": 0,
+"explanation": "Konfidencialumas skatina šalis atviriau kalbėti apie tikruosius interesus ir konflikto priežastis."
+},
+{
+"id": 76,
+"category": "Gynimo klausimai",
+"question": "Kodėl mediacija gali būti laikoma dialogo atkūrimo priemone?",
+"options": [
+"Nes ji sudaro sąlygas šalims kalbėtis ne priešiškumo, o bendradarbiavimo pagrindu",
+"Nes ji draudžia šalims bendrauti",
+"Nes ji taikoma tik rašytine forma",
+"Nes joje nedalyvauja mediatorius"
+],
+"correct": 0,
+"explanation": "Mediacija orientuota į dialogą, bendradarbiavimą ir abiem pusėms priimtinų sprendimų paiešką."
+},
+{
+"id": 77,
+"category": "Gynimo klausimai",
+"question": "Koks būtų stipriausias argumentas, kad teisminė mediacija turi būti skatinama šeimos bylose?",
+"options": [
+"Ji gali padėti pasiekti tvaresnius sprendimus ir sumažinti konflikto tęstinumą",
+"Ji visada pašalina visus ginčus per vieną susitikimą",
+"Ji leidžia teismui nebevertinti vaiko interesų",
+"Ji privalomai baigiasi susitarimu"
+],
+"correct": 0,
+"explanation": "Teisminė mediacija gali padėti sukurti tvaresnius, šalių pačių priimtus sprendimus."
+},
+{
+"id": 78,
+"category": "Gynimo klausimai",
+"question": "Kuris atsakymas geriausiai atspindi mediacijos ribas?",
+"options": [
+"Mediacija galima tik tada, kai ginčo pobūdis leidžia šalims sudaryti taikos sutartį",
+"Mediacija galima bet kokioje byloje be išimčių",
+"Mediacija galima tik baudžiamosiose bylose",
+"Mediacija galima tik tada, kai viena šalis jau laimėjo bylą"
+],
+"correct": 0,
+"explanation": "Mediacija turi ribas – ji galima tik ginčuose, kuriuose leidžiama sudaryti taikos sutartį."
+},
+{
+"id": 79,
+"category": "Gynimo klausimai",
+"question": "Ką dėstytojai galėtų tikrinti klausdami apie mediacijos principus?",
+"options": [
+"Ar studentė supranta ne tik principų pavadinimus, bet ir jų reikšmę praktikoje",
+"Ar studentė moka išvardyti tik teismų adresus",
+"Ar studentė žino visų mediatorių pavardes",
+"Ar studentė gali paneigti mediacijos reikšmę"
+],
+"correct": 0,
+"explanation": "Gynime svarbu mokėti paaiškinti principų praktinę reikšmę, o ne tik juos išvardyti."
+},
+{
+"id": 80,
+"category": "Gynimo klausimai",
+"question": "Kuri mintis geriausiai apibendrina teisminės mediacijos vertę šeimos ginčuose?",
+"options": [
+"Ji padeda derinti teisinį saugumą, šalių savarankiškumą ir santykių išsaugojimą",
+"Ji pašalina poreikį taikyti teisės aktus",
+"Ji leidžia ginčą spręsti be šalių dalyvavimo",
+"Ji yra skirta tik teismų statistikai pagerinti"
+],
+"correct": 0,
+"explanation": "Teisminė mediacija šeimos ginčuose vertinga tuo, kad jungia teisinį saugumą, dialogą ir šalių autonomiją."
+}
+,
+{
+"id": 81,
+"category": "Organizaciniai teisminės mediacijos trūkumai",
+"question": "Kokie pagrindiniai organizaciniai trūkumai riboja teisminės mediacijos veiksmingumą?",
+"options": [
+"Pernelyg glaudus ryšys su teismo struktūra, tinkamų patalpų trūkumas ir nepakankamas įsitraukimas",
+"Per didelis mediacijos savarankiškumas ir visiškas teismo kontrolės nebuvimas",
+"Tik baudžiamųjų bylų dominavimas mediacijos procese",
+"Mediatorių pareiga visada priimti privalomą sprendimą"
+],
+"correct": 0,
+"explanation": "Darbe nurodoma, kad organizacinės problemos siejamos su teismo struktūra, patalpomis ir teisėjų bei advokatų įsitraukimu."
+},
+{
+"id": 82,
+"category": "Organizaciniai teisminės mediacijos trūkumai",
+"question": "Kodėl pernelyg glaudus mediacijos ryšys su teismo struktūra gali būti problema?",
+"options": [
+"Nes mediacija gali būti suvokiama kaip formalus bylinėjimosi etapas, o ne lanksti alternatyva",
+"Nes tai visiškai panaikina šalių teisę kreiptis į teismą",
+"Nes mediatoriai tokiu atveju privalo skirti baudas",
+"Nes šeimos ginčai tampa baudžiamosiomis bylomis"
+],
+"correct": 0,
+"explanation": "Per stiprus ryšys su teismu gali mažinti mediacijos savarankiškumą ir jos lankstumą."
+},
+{
+"id": 83,
+"category": "Organizaciniai teisminės mediacijos trūkumai",
+"question": "Kodėl tinkamų patalpų trūkumas laikomas ne tik technine, bet ir kokybine problema?",
+"options": [
+"Nes mediacijai reikia neutralios, ramios ir konfidencialumą užtikrinančios aplinkos",
+"Nes mediacija gali vykti tik lauke",
+"Nes patalpos lemia teismo sprendimo teisinę galią",
+"Nes mediatoriui nereikia jokios aplinkos susitikimui"
+],
+"correct": 0,
+"explanation": "Mediacijai reikalinga saugi ir neutrali aplinka, kurioje šalys galėtų atvirai kalbėtis."
+},
+{
+"id": 84,
+"category": "Organizaciniai teisminės mediacijos trūkumai",
+"question": "Kaip įprastos teismo patalpos gali paveikti mediacijos procesą?",
+"options": [
+"Jos gali didinti šalių įtampą ir mažinti pasitikėjimą mediacija",
+"Jos visada automatiškai užtikrina sėkmingą susitarimą",
+"Jos leidžia mediatoriui priversti šalis susitarti",
+"Jos visiškai panaikina konflikto emocinį aspektą"
+],
+"correct": 0,
+"explanation": "Teismo aplinka gali asocijuotis su formaliu konfliktu ir didinti psichologinę įtampą."
+},
+{
+"id": 85,
+"category": "Advokatų ir teisėjų vaidmuo",
+"question": "Kodėl advokatų pasyvumas gali mažinti mediacijos veiksmingumą?",
+"options": [
+"Nes advokatai dažnai formuoja šalių lūkesčius ir ginčo sprendimo strategiją",
+"Nes advokatai visada draudžia klientams dalyvauti mediacijoje",
+"Nes advokatai mediacijoje priima galutinį teismo sprendimą",
+"Nes advokatai neturi jokio ryšio su šalių pasirinkimais"
+],
+"correct": 0,
+"explanation": "Advokatai daro įtaką šalių požiūriui į ginčą ir galimą kompromisą."
+},
+{
+"id": 86,
+"category": "Advokatų ir teisėjų vaidmuo",
+"question": "Kokia problema kyla, kai mediacijos taikymas priklauso nuo konkretaus teisėjo iniciatyvos?",
+"options": [
+"Gali susiformuoti nevienoda mediacijos praktika skirtinguose teismuose",
+"Visos bylos automatiškai baigiasi taikos sutartimi",
+"Mediatoriai nebegali dalyvauti procese",
+"Šalys netenka teisės apskųsti procesinius sprendimus"
+],
+"correct": 0,
+"explanation": "Jei mediacija priklauso nuo individualaus teisėjo požiūrio, praktika gali tapti nenuosekli."
+},
+{
+"id": 87,
+"category": "Praktiniai sunkumai teisminės mediacijos procese",
+"question": "Kokie praktiniai sunkumai dažniausiai išryškėja teisminės mediacijos procese?",
+"options": [
+"Mediacijos idėjos nesupratimas, šalių nenoras bendradarbiauti ir stiprus emocinis krūvis",
+"Tik techninės klaidos teismo informacinėse sistemose",
+"Vien tik teisėjo darbo grafiko klausimai",
+"Tik mediatoriaus atlyginimo apskaičiavimas"
+],
+"correct": 0,
+"explanation": "Darbe akcentuojami procesiniai ir psichologiniai sunkumai: nežinomumas, emocijos, bendradarbiavimo stoka."
+},
+{
+"id": 88,
+"category": "Praktiniai sunkumai teisminės mediacijos procese",
+"question": "Kodėl šeimos ginčuose praktiniai mediacijos sunkumai išryškėja ypač stipriai?",
+"options": [
+"Nes šiuose ginčuose dažnai yra emocinis krūvis, komunikacijos sutrikimai ir interesų konfliktai",
+"Nes šeimos ginčuose šalys visada sutaria dėl visų klausimų",
+"Nes tokiose bylose niekada nebūna vaikų interesų",
+"Nes šeimos ginčuose mediacija įstatymu draudžiama"
+],
+"correct": 0,
+"explanation": "Šeimos ginčai yra emocingi ir susiję su ilgalaikiais santykiais, todėl mediacija tampa sudėtingesnė."
+},
+{
+"id": 89,
+"category": "Praktiniai sunkumai teisminės mediacijos procese",
+"question": "Koks mediatoriaus iššūkis susijęs su emocijomis šeimos mediacijoje?",
+"options": [
+"Mediatorius turi gebėti valdyti stiprias emocijas ir išlaikyti konstruktyvų dialogą",
+"Mediatorius turi visiškai ignoruoti šalių emocijas",
+"Mediatorius privalo palaikyti emociškai silpnesnę šalį",
+"Mediatorius turi nutraukti mediaciją vos tik šalys susijaudina"
+],
+"correct": 0,
+"explanation": "Mediatoriui svarbu atpažinti ir valdyti emocinę įtampą, kad procesas išliktų konstruktyvus."
+},
+{
+"id": 90,
+"category": "Praktiniai sunkumai teisminės mediacijos procese",
+"question": "Kodėl mediatoriui gali prireikti ne tik teisinių, bet ir psichologinių žinių?",
+"options": [
+"Nes šeimos ginčuose konfliktas dažnai susijęs su emocijomis, bendravimu ir tarpusavio įtampa",
+"Nes mediatorius turi nustatyti medicinines diagnozes",
+"Nes mediacija yra sveikatos priežiūros procedūra",
+"Nes teisinės žinios mediacijoje apskritai nereikalingos"
+],
+"correct": 0,
+"explanation": "Šeimos mediacijoje svarbu ne tik teisė, bet ir gebėjimas suprasti žmonių emocijas bei konfliktų dinamiką."
+},
+{
+"id": 91,
+"category": "Praktiniai sunkumai teisminės mediacijos procese",
+"question": "Ką reiškia šalių nenoras bendradarbiauti mediacijos kontekste?",
+"options": [
+"Šalys gali formaliai dalyvauti procese, bet realiai nesiekti kompromiso",
+"Šalys visada pasiekia geresnį susitarimą",
+"Mediatorius privalo automatiškai nutraukti bylą",
+"Teismas nebegali kontroliuoti proceso teisėtumo"
+],
+"correct": 0,
+"explanation": "Bendradarbiavimo stoka gali paversti mediaciją formalia procedūra be realaus susitarimo siekio."
+},
+{
+"id": 92,
+"category": "Mediacijos žinomumas",
+"question": "Kaip nepakankamas mediacijos idėjos supratimas veikia jos taikymą?",
+"options": [
+"Šalys gali nepasitikėti procesu arba nesuprasti jo naudos",
+"Šalys visada aktyviau renkasi mediaciją",
+"Mediacija automatiškai tampa privaloma visose bylose",
+"Tai neturi jokios įtakos mediacijos rezultatams"
+],
+"correct": 0,
+"explanation": "Jei šalys nesupranta mediacijos paskirties, jos gali mažiau pasitikėti procesu."
+},
+{
+"id": 93,
+"category": "Teisminės mediacijos modelio stabilumas",
+"question": "Ką reiškia teisminės mediacijos modelio stabilumo problema?",
+"options": [
+"Kad mediacijos taikymas gali priklausyti nuo pavienių asmenų iniciatyvos, o ne nuo nuoseklaus mechanizmo",
+"Kad mediacija visada vyksta vienodai visose bylose",
+"Kad mediacijos rezultatai niekada nekinta",
+"Kad mediacija taikoma tik viename Lietuvos teisme"
+],
+"correct": 0,
+"explanation": "Modelio stabilumo problema susijusi su nenuosekliu mediacijos taikymu ir priklausomybe nuo individualios iniciatyvos."
+},
+{
+"id": 94,
+"category": "Teisminės mediacijos modelio stabilumas",
+"question": "Kodėl nevienoda mediacijos praktika skirtinguose teismuose yra problema?",
+"options": [
+"Nes šalys gali gauti nevienodas galimybes pasinaudoti mediacija",
+"Nes tai visada sutrumpina teismo procesą",
+"Nes visi ginčai automatiškai tampa neteisminiai",
+"Nes tai panaikina mediatorių sąrašą"
+],
+"correct": 0,
+"explanation": "Nevienoda praktika gali lemti, kad mediacija vienuose teismuose taikoma aktyviau nei kituose."
+},
+{
+"id": 95,
+"category": "Teisminės mediacijos modelio stabilumas",
+"question": "Kuris veiksnys gali labiausiai mažinti teisminės mediacijos modelio stabilumą?",
+"options": [
+"Priklausomybė nuo individualaus teisėjo ar advokato požiūrio",
+"Aiškus ir vienodas mediacijos skatinimo mechanizmas",
+"Pakankamas mediacijos patalpų skaičius",
+"Aukštas šalių pasitikėjimas mediacija"
+],
+"correct": 0,
+"explanation": "Kai mediacijos taikymas priklauso nuo individualaus požiūrio, sistema tampa mažiau stabili."
+},
+{
+"id": 96,
+"category": "Teisminės mediacijos efektyvumas",
+"question": "Nuo ko priklauso teisminės mediacijos veiksmingumas?",
+"options": [
+"Nuo procedūros kokybės, šalių požiūrio, mediatoriaus kompetencijos ir institucinio palaikymo",
+"Tik nuo mediatoriaus pavardės",
+"Tik nuo bylos numerio",
+"Tik nuo to, ar byla nagrinėjama pirmadienį"
+],
+"correct": 0,
+"explanation": "Mediacijos veiksmingumas priklauso nuo daugelio veiksnių: žmonių požiūrio, kompetencijos ir organizavimo."
+},
+{
+"id": 97,
+"category": "Teisminės mediacijos efektyvumas",
+"question": "Kodėl mediacijos efektyvumo negalima vertinti vien pagal sudarytų taikos sutarčių skaičių?",
+"options": [
+"Nes svarbu ir šalių bendravimo pagerėjimas, konflikto sumažėjimas bei susitarimo tvarumas",
+"Nes taikos sutartys mediacijoje neturi reikšmės",
+"Nes mediacijoje draudžiama vertinti proceso rezultatus",
+"Nes šeimos ginčuose niekada nesudaromos sutartys"
+],
+"correct": 0,
+"explanation": "Šeimos mediacijoje svarbus ne tik formalus susitarimas, bet ir santykių bei konflikto dinamika."
+},
+{
+"id": 98,
+"category": "Teisminės mediacijos efektyvumas",
+"question": "Kokį poveikį mediacija gali turėti teismų darbo krūviui?",
+"options": [
+"Ji gali mažinti teismų darbo krūvį, jei ginčai išsprendžiami taikiai",
+"Ji visada dvigubina teismų darbo krūvį",
+"Ji neturi jokio ryšio su teismų darbo krūviu",
+"Ji panaikina visus civilinius ginčus"
+],
+"correct": 0,
+"explanation": "Vienas mediacijos tikslų yra padėti ginčus spręsti taikiai ir taip mažinti teismų apkrovimą."
+},
+{
+"id": 99,
+"category": "Tobulinimo kryptys",
+"question": "Kuri kryptis galėtų padidinti teisminės mediacijos veiksmingumą?",
+"options": [
+"Didesnis šalių, advokatų ir teisėjų informavimas apie mediacijos naudą",
+"Visiškas konfidencialumo panaikinimas",
+"Mediacijos taikymas tik formaliai pažymint dokumentuose",
+"Draudimas mediatoriams kelti kvalifikaciją"
+],
+"correct": 0,
+"explanation": "Mediacijos veiksmingumui svarbus geresnis informavimas ir teigiamas proceso dalyvių požiūris."
+},
+{
+"id": 100,
+"category": "Tobulinimo kryptys",
+"question": "Kodėl svarbu stiprinti mediatorių kvalifikaciją?",
+"options": [
+"Nes mediatoriai turi gebėti valdyti sudėtingus teisinius, emocinius ir komunikacinius aspektus",
+"Nes mediatoriai turi pakeisti visus teisėjus",
+"Nes kvalifikacija trukdo šalių savarankiškumui",
+"Nes mediacijos procese nereikia jokių specialių įgūdžių"
+],
+"correct": 0,
+"explanation": "Sudėtinguose šeimos ginčuose mediatoriui reikia teisinių, komunikacinių ir emocijų valdymo kompetencijų."
+},
+{
+"id": 101,
+"category": "Tobulinimo kryptys",
+"question": "Kaip tinkamos mediacijos patalpos galėtų pagerinti procesą?",
+"options": [
+"Jos sukurtų saugesnę, ramesnę ir konfidencialesnę aplinką šalių dialogui",
+"Jos leistų mediatoriui priimti nuosprendį",
+"Jos padidintų ginčo formalumą",
+"Jos panaikintų poreikį laikytis mediacijos principų"
+],
+"correct": 0,
+"explanation": "Tinkamos patalpos padeda sumažinti įtampą ir stiprina pasitikėjimą mediacijos procesu."
+},
+{
+"id": 102,
+"category": "Tobulinimo kryptys",
+"question": "Kodėl svarbu skatinti advokatų įsitraukimą į mediacijos procesą?",
+"options": [
+"Nes advokatai gali padėti šalims realistiškai vertinti kompromiso galimybes",
+"Nes advokatai turi pakeisti mediatorių",
+"Nes advokatai privalo nuspręsti ginčą vietoje teismo",
+"Nes advokatų dalyvavimas visada mediaciją padaro neįmanomą"
+],
+"correct": 0,
+"explanation": "Advokatai gali padėti klientams suprasti mediacijos naudą ir teisiškai įvertinti susitarimus."
+},
+{
+"id": 103,
+"category": "Tobulinimo kryptys",
+"question": "Koks pokytis galėtų sumažinti mediacijos priklausomybę nuo individualaus teisėjo požiūrio?",
+"options": [
+"Aiškesnis ir nuoseklesnis mediacijos skatinimo mechanizmas teismuose",
+"Visiškas teisėjų pašalinimas iš civilinio proceso",
+"Mediacijos taikymas tik pagal šalių pavardžių abėcėlę",
+"Draudimas teisėjams informuoti šalis apie mediaciją"
+],
+"correct": 0,
+"explanation": "Nuoseklus mechanizmas padėtų užtikrinti vienodesnę mediacijos praktiką skirtinguose teismuose."
+},
+{
+"id": 104,
+"category": "Gynimo klausimai",
+"question": "Jeigu dėstytoja paklaustų, kokia didžiausia teisminės mediacijos problema praktikoje, kuris atsakymas būtų stipriausias?",
+"options": [
+"Ji dažnai priklauso nuo proceso dalyvių požiūrio, įsitraukimo ir organizacinių sąlygų",
+"Ji neturi jokio teisinio reguliavimo Lietuvoje",
+"Ji taikoma tik baudžiamosiose bylose",
+"Ji visada pažeidžia šalių teises"
+],
+"correct": 0,
+"explanation": "Darbo logika rodo, kad problemos kyla ne iš vienos priežasties, o iš požiūrio, įsitraukimo ir organizavimo visumos."
+},
+{
+"id": 105,
+"category": "Gynimo klausimai",
+"question": "Kaip būtų galima pagrįsti, kad mediacija neturi būti tik formalus etapas?",
+"options": [
+"Ji turi realiai skatinti dialogą, bendradarbiavimą ir tvarų susitarimą, o ne tik pažymėti procedūros atlikimą",
+"Ji turi būti taikoma vien dokumentų pildymui",
+"Ji turi būti vykdoma be šalių dalyvavimo",
+"Ji turi pakeisti visus teismo sprendimus"
+],
+"correct": 0,
+"explanation": "Mediacijos vertė atsiskleidžia tik tada, kai ji realiai padeda šalims spręsti konfliktą."
+},
+{
+"id": 106,
+"category": "Gynimo klausimai",
+"question": "Kuris atsakymas geriausiai paaiškina, kodėl šeimos mediacijoje svarbus emocinis aspektas?",
+"options": [
+"Nes ginčas dažnai susijęs su artimais santykiais, vaikais ir ilgalaike tarpusavio įtampa",
+"Nes šeimos ginčai neturi jokio teisinio turinio",
+"Nes emocijos leidžia netaikyti teisės aktų",
+"Nes mediatorius turi vertinti tik šalių pajamas"
+],
+"correct": 0,
+"explanation": "Šeimos ginčuose konfliktas dažnai kyla ne tik dėl teisės, bet ir dėl santykių, emocijų ir vaikų interesų."
+},
+{
+"id": 107,
+"category": "Gynimo klausimai",
+"question": "Ką reiškia teiginys, kad teisminė mediacija turi būti savarankiška ir lanksti alternatyva?",
+"options": [
+"Ji neturėtų virsti vien formalia teismo proceso dalimi, bet turi sudaryti sąlygas realiam šalių dialogui",
+"Ji turi būti visiškai atskirta nuo bet kokio teisinio reguliavimo",
+"Ji turi būti taikoma be mediatoriaus",
+"Ji turi būti privaloma iki taikos sutarties sudarymo"
+],
+"correct": 0,
+"explanation": "Mediacija turi būti reali ginčo sprendimo priemonė, o ne tik formali procedūra teismo procese."
+},
+{
+"id": 108,
+"category": "Gynimo klausimai",
+"question": "Kuris teiginys geriausiai apibūdina advokatų vaidmens problemą mediacijoje?",
+"options": [
+"Jei advokatai mediaciją vertina skeptiškai, šalys gali mažiau tikėti kompromiso galimybe",
+"Advokatai visada privalo uždrausti mediaciją",
+"Advokatai mediacijoje neturi jokios įtakos klientų požiūriui",
+"Advokatai mediacijoje pakeičia teisėją ir mediatorių"
+],
+"correct": 0,
+"explanation": "Advokatų požiūris gali formuoti šalių lūkesčius ir pasirengimą ieškoti kompromiso."
+},
+{
+"id": 109,
+"category": "Gynimo klausimai",
+"question": "Koks atsakymas geriausiai parodytų darbo problematikos supratimą?",
+"options": [
+"Teisminė mediacija yra naudinga, bet jos praktinis veiksmingumas priklauso nuo organizacinių, profesinių ir psichologinių veiksnių",
+"Teisminė mediacija yra visiškai neveikiantis institutas",
+"Teisminė mediacija neturi jokio ryšio su šeimos ginčais",
+"Teisminė mediacija visada automatiškai išsprendžia konfliktą"
+],
+"correct": 0,
+"explanation": "Subalansuotas atsakymas parodo, kad mediacija turi potencialą, bet jos sėkmė priklauso nuo praktinio įgyvendinimo."
+},
+{
+"id": 110,
+"category": "Gynimo klausimai",
+"question": "Kokia galėtų būti viena iš darbo siūlomų teisminės mediacijos tobulinimo krypčių?",
+"options": [
+"Gerinti mediacijos organizavimą, stiprinti informavimą ir užtikrinti tinkamas sąlygas procesui",
+"Atsisakyti mediacijos principų",
+"Mediaciją taikyti tik tada, kai šalys jau susitarė",
+"Visus šeimos ginčus spręsti tik baudžiamojo proceso tvarka"
+],
+"correct": 0,
+"explanation": "Tobulinimo kryptys siejamos su organizavimu, informavimu, patalpomis ir profesionaliu proceso dalyvių įsitraukimu."
+}
+,
+{
+"id": 111,
+"type": "oral",
+"category": "Gynimo pasiruošimas",
+"question": "Kodėl pasirinkote būtent teisminės mediacijos temą šeimos ginčuose?",
+"key_points": [
+"Tema aktuali praktikoje",
+"Šeimos ginčai turi emocinį aspektą",
+"Mediacija padeda ieškoti taikesnių sprendimų",
+"Svarbūs vaikų interesai",
+"Tema susijusi su šiuolaikine civilinio proceso raida"
+],
+"explanation": "Šis klausimas skirtas ne testo atsakymui, o pasiruošimui gynimo pokalbiui."
+},
+{
+"id": 112,
+"type": "oral",
+"category": "Gynimo pasiruošimas",
+"question": "Kokia, jūsų nuomone, yra didžiausia teisminės mediacijos problema praktikoje?",
+"key_points": [
+"Priklausomybė nuo žmonių požiūrio",
+"Emocinis konfliktų sudėtingumas",
+"Nepakankamas informuotumas",
+"Nevienoda praktika tarp teismų",
+"Organizaciniai sunkumai"
+],
+"explanation": "Klausimas orientuotas į argumentavimą ir darbo problematikos supratimą."
+},
+{
+"id": 113,
+"type": "oral",
+"category": "Gynimo pasiruošimas",
+"question": "Kuo jūsų darbas gali būti naudingas praktikai?",
+"key_points": [
+"Atskleidžia praktinius mediacijos sunkumus",
+"Parodo šeimos ginčų specifiką",
+"Pabrėžia mediacijos naudą",
+"Pateikia galimas tobulinimo kryptis",
+"Skatina efektyvesnį ginčų sprendimą"
+],
+"explanation": "Tokio tipo klausimai dažnai užduodami gynimo metu."
+},
+{
+"id": 114,
+"type": "oral",
+"category": "Gynimo pasiruošimas",
+"question": "Kokius pagrindinius darbo rezultatus galėtumėte išskirti?",
+"key_points": [
+"Mediacija naudinga šeimos ginčuose",
+"Svarbus emocinis aspektas",
+"Reikalingas geresnis organizavimas",
+"Svarbi mediatorių kompetencija",
+"Procesas priklauso nuo praktinio įgyvendinimo"
+],
+"explanation": "Klausimas padeda pasiruošti trumpam darbo rezultatų pristatymui."
+},
+{
+"id": 115,
+"type": "oral",
+"category": "Gynimo pasiruošimas",
+"question": "Ką savo darbe keistumėte arba papildytumėte ateityje?",
+"key_points": [
+"Didesnė respondentų imtis",
+"Daugiau praktinių interviu",
+"Išsamesnė statistikos analizė",
+"Kitų valstybių palyginimas",
+"Detalesnis mediatorių požiūrio tyrimas"
+],
+"explanation": "Tai klasikinis dėstytojų klausimas gynimo metu."
+}
 ]
