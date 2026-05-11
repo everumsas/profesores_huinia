@@ -1,0 +1,587 @@
+[
+  {
+    "id": 1,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA vienas iš aspektų, kuriais nagrinėjama sąvoka administracinė teisė?",
+    "options": [
+      "Kaip teisės šaka",
+      "Kaip mokslas",
+      "Kaip studijų dalykas",
+      "Kaip administracinė praktika"
+    ],
+    "correct": 3,
+    "explanation": "Administracinė teisė nagrinėjama 4 aspektais: kaip teisės šaka, kaip bendrieji teisės principai, kaip mokslas ir kaip studijų dalykas. Administracinė praktika nėra vienas iš šių aspektų."
+  },
+  {
+    "id": 2,
+    "category": "Administracinė teisė",
+    "question": "Kaip vadinamas administracinės teisės reguliavimo metodas, kuriam būdingas įpareigojimo elemento dominavimas?",
+    "options": [
+      "Disposityvusis metodas",
+      "Koordinacinis metodas",
+      "Sutartinis metodas",
+      "Administracinis-teisinis (imperatyvusis) metodas"
+    ],
+    "correct": 3,
+    "explanation": "Administracinėje teisėje dominuoja įpareigojimo elementas, todėl metodas vadinamas administraciniu-teisiniu arba imperatyviuoju reguliavimo metodu."
+  },
+  {
+    "id": 3,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA imperatyvaus administracinės teisės reguliavimo metodo būdas?",
+    "options": [
+      "Įpareigojimas",
+      "Draudimas",
+      "Įgalinimas",
+      "Skatinimas"
+    ],
+    "correct": 3,
+    "explanation": "Imperatyviam metodui būdingi trys būdai: įpareigojimas, draudimas ir įgalinimas. Skatinimas šiam metodui nebūdingas."
+  },
+  {
+    "id": 4,
+    "category": "Administracinė teisė",
+    "question": "Kuri iš šių yra administracinės teisės sistemos dalis?",
+    "options": [
+      "Administracinio proceso dalis",
+      "Baudžiamojo proceso dalis",
+      "Civilinio proceso dalis",
+      "Darbo teisės proceso dalis"
+    ],
+    "correct": 0,
+    "explanation": "Administracinės teisės sistema susideda iš bendrosios dalies, specialiosios dalies ir administracinio proceso dalies."
+  },
+  {
+    "id": 5,
+    "category": "Administracinė teisė",
+    "question": "Kuriame Lietuvos Respublikos Konstitucijos straipsnyje įtvirtintas asmenų lygybės prieš įstatymą principas?",
+    "options": [
+      "25 straipsnyje",
+      "31 straipsnyje",
+      "29 straipsnyje",
+      "33 straipsnyje"
+    ],
+    "correct": 2,
+    "explanation": "Lygybės principas įtvirtintas LR Konstitucijos 29 straipsnyje ir Konstitucinio Teismo pripažįstamas vienu iš pagrindinių konstitucinių principų."
+  },
+  {
+    "id": 6,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA teisinės valstybės principo sudedamoji dalis?",
+    "options": [
+      "Teisėtų lūkesčių apsauga",
+      "Teisinis tikrumas",
+      "Teisinis proporcingumas",
+      "Teisinis saugumas"
+    ],
+    "correct": 2,
+    "explanation": "Teisinės valstybės principą sudaro trys dalys: teisėtų lūkesčių apsauga, teisinis tikrumas ir teisinis saugumas. Proporcingumas yra atskiras administracinės teisės principas."
+  },
+  {
+    "id": 7,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA LR Viešojo administravimo įstatymo 3 straipsnyje nustatytas viešojo administravimo principas?",
+    "options": [
+      "Subsidiarumo principas",
+      "Teisingumo principas",
+      "Vieno langelio principas",
+      "Draudimo keisti į blogąją pusę principas"
+    ],
+    "correct": 1,
+    "explanation": "LR VAĮ 3 str. nustato 13 principų – tarp jų nėra teisingumo principo, nors yra subsidiarumo, vieno langelio ir draudimo keisti į blogąją pusę principai."
+  },
+  {
+    "id": 8,
+    "category": "Administracinė teisė",
+    "question": "Kaip lietuvių kalba vadinamas principas non reformatio in peius, įtvirtintas LR Viešojo administravimo įstatymo 3 straipsnyje?",
+    "options": [
+      "Proporcingumo principas",
+      "Subsidiarumo principas",
+      "Draudimo keisti į blogąją pusę principas",
+      "Nekaltumo prezumpcijos principas"
+    ],
+    "correct": 2,
+    "explanation": "Non reformatio in peius reiškia draudimą keisti sprendimą į blogąją pusę – tai vienas iš LR VAĮ 3 str. įtvirtintų viešojo administravimo principų."
+  },
+  {
+    "id": 9,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA viešojo administravimo subjektų sistemos elementas pagal LR Viešojo administravimo įstatymą?",
+    "options": [
+      "Valstybinio administravimo subjektai",
+      "Apskričių administravimo subjektai",
+      "Regioninio administravimo subjektai",
+      "Savivaldybių administravimo subjektai"
+    ],
+    "correct": 1,
+    "explanation": "LR VAĮ 4 str. numato, kad subjektų sistemą sudaro valstybinio, regioninio ir savivaldybių administravimo subjektai – apskričių administravimo subjektai atskira grupe nėra išskirti."
+  },
+  {
+    "id": 10,
+    "category": "Administracinė teisė",
+    "question": "Kas yra regioninio administravimo subjektai pagal LR Viešojo administravimo įstatymą?",
+    "options": [
+      "Apskričių viršininkai",
+      "Vyriausybės atstovai apskrityse",
+      "Regionų plėtros tarybos",
+      "Teritorinės valstybės institucijų įstaigos"
+    ],
+    "correct": 2,
+    "explanation": "LR VAĮ 4 straipsnio 4 dalis aiškiai numato, kad regioninio administravimo subjektai yra regionų plėtros tarybos."
+  },
+  {
+    "id": 11,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina vykdomosios valdžios institucijų hierarchiją?",
+    "options": [
+      "Aukščiausia institucija yra Respublikos Prezidentas, žemiau – ministerijos ir vyriausybės įstaigos",
+      "Aukščiausia institucija yra Vyriausybė, žemiau – ministerijos ir vyriausybės įstaigos, dar žemiau – teritorinės struktūros",
+      "Aukščiausia institucija yra Seimas, žemiau – Vyriausybė ir ministerijos",
+      "Aukščiausia institucija yra Konstitucinis Teismas, žemiau – centrinės vykdomosios valdžios institucijos"
+    ],
+    "correct": 1,
+    "explanation": "Vykdomosios valdžios hierarchijoje aukščiausia yra Vyriausybė, centrinės – ministerijos ir vyriausybės įstaigos, teritorinės – Vyriausybės atstovai apskrityse ir centrinių institucijų teritorinės struktūros."
+  },
+  {
+    "id": 12,
+    "category": "Administracinė teisė",
+    "question": "Administracinė nuobauda negali būti skiriama, jeigu nuo nusižengimo padarymo dienos praėjo daugiau kaip:",
+    "options": [
+      "2 metai",
+      "6 mėnesiai",
+      "1 metai",
+      "3 metai"
+    ],
+    "correct": 0,
+    "explanation": "ANK 39 straipsnis numato, kad administracinė nuobauda gali būti paskirta ne vėliau kaip per dvejus metus nuo administracinio nusižengimo padarymo dienos."
+  },
+  {
+    "id": 13,
+    "category": "Administracinė teisė",
+    "question": "Administracinio nusižengimo požymių turinčią veiką padarė nepilnametis, kuriam nebuvo sukakę 16 metų. Kaip turi pasielgti pareigūnas atlikus tyrimą?",
+    "options": [
+      "Perduoti informaciją apie veiką ir nepilnametį savivaldybės administracijos direktoriui",
+      "Skirti administracinę nuobaudą kaip ir suaugusiam asmeniui",
+      "Perduoti bylą prokurorui ikiteisminio tyrimo tvarka",
+      "Nutraukti teiseną, nes asmuo negali atsakyti pagal ANK"
+    ],
+    "correct": 0,
+    "explanation": "Kai nusižengimo požymių turinčią veiką padaro asmuo, kuriam nebuvo sukakę 16 metų, atlikus tyrimą informacija turi būti perduota savivaldybės administracijos direktoriui."
+  },
+  {
+    "id": 14,
+    "category": "Administracinė teisė",
+    "question": "Nuo kokio girtumo lygio vairuotojui taikoma ne administracinė, o baudžiamoji atsakomybė?",
+    "options": [
+      "Nuo 1,5 promilės",
+      "Nuo 1,0 promilės",
+      "Nuo 1,2 promilės",
+      "Nuo 2,0 promilės"
+    ],
+    "correct": 0,
+    "explanation": "Iki 1,5 promilės girtumo taikoma administracinė atsakomybė pagal ANK; nuo 1,5 promilės – baudžiamoji atsakomybė pagal BK."
+  },
+  {
+    "id": 15,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA administracinės teisės sisteminimo forma?",
+    "options": [
+      "Inkorporacija",
+      "Kodifikacija",
+      "Harmonizacija",
+      "Konsolidacija"
+    ],
+    "correct": 2,
+    "explanation": "Yra trys pagrindinės administracinės teisės sisteminimo formos: inkorporacija, kodifikacija ir konsolidacija. Harmonizacija nėra viena iš jų."
+  },
+  {
+    "id": 16,
+    "category": "Administracinė teisė",
+    "question": "Kuris teisės normos struktūros elementas nurodo konkrečias aplinkybes ar sąlygas, kurioms esant realizuojama elgesio taisyklė?",
+    "options": [
+      "Hipotezė",
+      "Dispozicija",
+      "Sankcija",
+      "Preambulė"
+    ],
+    "correct": 0,
+    "explanation": "Hipotezė – tai teisės normos elementas, nurodantis konkrečias aplinkybes arba sąlygas, kurioms esant realizuojama normoje įtvirtinta elgesio taisyklė."
+  },
+  {
+    "id": 17,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina administracinių teisinių santykių turinio elementą?",
+    "options": [
+      "Subjektinės teisės ir juridinės pareigos, nustatyti draudimai ir apribojimai",
+      "Materialinės ir nematerialinės vertybės, dėl kurių susiklosto santykiai",
+      "Fiziniai ir juridiniai asmenys, turintys administracines teises ir pareigas",
+      "Juridiniai faktai, kuriais grindžiamas santykio atsiradimas ar pasibaigimas"
+    ],
+    "correct": 0,
+    "explanation": "Administracinių teisinių santykių turinį sudaro subjektinės teisės ir juridinės pareigos, nustatyti draudimai ir apribojimai bei jų įgyvendinimo procesinis teisinis režimas."
+  },
+  {
+    "id": 18,
+    "category": "Administracinė teisė",
+    "question": "Kuri iš šių santykių grupių NEPRIKLAUSO administracinės teisės reguliavimo dalykui?",
+    "options": [
+      "Viešojo valdymo organizavimo santykiai",
+      "Administraciniai justiciniai santykiai",
+      "Administraciniai deliktiniai santykiai",
+      "Civiliniai turto santykiai"
+    ],
+    "correct": 3,
+    "explanation": "Administracinės teisės reguliavimo dalyką sudaro 5 grupės santykių, tarp kurių nėra civilinių turto santykių – jie reguliuojami civilinės teisės."
+  },
+  {
+    "id": 19,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina administracinės teisės apsauginę funkciją?",
+    "options": [
+      "Užtikrina teisinio režimo laikymąsi ir asmenų teisių apsaugą, nustato sankcijas už pažeidimus",
+      "Apibrėžia administracinės teisės subjektų teisinio statuso pagrindus ir kompetenciją",
+      "Nustato valdymo institucijų formavimo tvarką ir valstybės tarnybos reguliavimą",
+      "Reguliuoja administracinių sutarčių sudarymą ir vykdymą viešojo valdymo srityje"
+    ],
+    "correct": 0,
+    "explanation": "Apsauginė funkcija užtikrina teisinio režimo viešojo valdymo srityje laikymąsi, asmenų teisių ir teisėtų interesų apsaugą bei nustato sankcijas už pažeidimų padarymą."
+  },
+  {
+    "id": 20,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA administracinės atsakomybės principas?",
+    "options": [
+      "Nekaltumo prezumpcija",
+      "Atsakomybės proporcingumas",
+      "Baudos neišvengiamumo principas",
+      "Žmogaus neliečiamumas"
+    ],
+    "correct": 2,
+    "explanation": "Administracinės atsakomybės principai yra šeši: atsakomybės teisėtumas, žmogaus neliečiamumas, asmenų lygybė, nekaltumo prezumpcija, proporcingumas ir teisingumas. Baudos neišvengiamumo principas šiame sąraše nėra."
+  },
+  {
+    "id": 21,
+    "category": "Administracinė teisė",
+    "question": "Per kiek kalendorinių dienų galima apskųsti ne teismo tvarka priimtą nutarimą administracinio nusižengimo byloje apylinkės teismui?",
+    "options": [
+      "Per 10 kalendorinių dienų",
+      "Per 20 kalendorinių dienų",
+      "Per 14 kalendorinių dienų",
+      "Per 30 kalendorinių dienų"
+    ],
+    "correct": 1,
+    "explanation": "Skundas dėl ne teismo tvarka priimto nutarimo administracinio nusižengimo byloje gali būti paduotas per 20 kalendorinių dienų nuo nutarimo kopijos išsiuntimo ar išdavimo dienos."
+  },
+  {
+    "id": 22,
+    "category": "Administracinė teisė",
+    "question": "Teisės normoje numatytos kelios sąlygos, ir jai pradėti galioti reikalingas visų sąlygų atsiradimas. Kaip vadinamos tokios hipotezės?",
+    "options": [
+      "Sudėtinės hipotezės",
+      "Paprastos hipotezės",
+      "Alternatyvios hipotezės",
+      "Kazuistinės hipotezės"
+    ],
+    "correct": 0,
+    "explanation": "Sudėtinės hipotezės – tai hipotezės, kuriose numatytos kelios sąlygos, ir teisės normai pradėti galioti reikalingas visų šių sąlygų atsiradimas."
+  },
+  {
+    "id": 23,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių NĖRA savarankiška teisės pažeidimų rūšis?",
+    "options": [
+      "Administracinės teisės pažeidimas",
+      "Procesinis pažeidimas",
+      "Tarnybinis nusižengimas",
+      "Civilinės teisės deliktas"
+    ],
+    "correct": 1,
+    "explanation": "Teisės pažeidimai skirstomi į 5 savarankiškas rūšis: nusikaltimus, administracinės teisės pažeidimus, tarnybinius nusižengimus, drausmines pražangas ir civilinės teisės deliktus. Procesinis pažeidimas nėra atskira rūšis."
+  },
+  {
+    "id": 24,
+    "category": "Administracinė teisė",
+    "question": "Kokie amžiaus reikalavimai keliami asmenims, pretenduojantiems į valstybės tarnautojo pareigas?",
+    "options": [
+      "Ne jaunesni kaip 16 metų ir ne vyresni kaip 60 metų",
+      "Ne jaunesni kaip 18 metų ir ne vyresni kaip 65 metų",
+      "Ne jaunesni kaip 18 metų ir ne vyresni kaip 62 metų",
+      "Ne jaunesni kaip 21 metų ir ne vyresni kaip 65 metų"
+    ],
+    "correct": 1,
+    "explanation": "Pretenduojantys į valstybės tarnautojo pareigas turi būti ne jaunesni kaip 18 metų ir ne vyresni kaip 65 metų (išskyrus politinio pasitikėjimo tarnautojus)."
+  },
+  {
+    "id": 25,
+    "category": "Administracinė teisė",
+    "question": "Asmuo teigia, kad nežinojo apie teisės normą, kurią pažeidė, todėl neturėtų atsakyti administracine tvarka. Ar toks argumentas pagrįstas?",
+    "options": [
+      "Taip, nes asmuo veikė sąžiningai klaidingai suprasdamas taisykles",
+      "Taip, jeigu asmuo pirmą kartą pažeidė šią normą",
+      "Ne, nes įstatymų ar kitų teisės aktų nežinojimas nuo administracinės atsakomybės neatleidžia",
+      "Tai sprendžia teismas kiekvienu atveju individualiai, atsižvelgdamas į aplinkybes"
+    ],
+    "correct": 2,
+    "explanation": "ANK tiesiogiai numato, kad įstatymų ar kitų teisės aktų nežinojimas nuo administracinės atsakomybės neatleidžia."
+  },
+  {
+    "id": 26,
+    "category": "Administracinė teisė",
+    "question": "Kokios dvi kaltės formos gali būti padarius administracinį nusižengimą?",
+    "options": [
+      "Tiesioginė ir netiesioginė tyčia",
+      "Tyčia ir neatsargumas",
+      "Apgalvotas ir neapgalvotas pažeidimas",
+      "Sąmoningas ir nesąmoningas pažeidimas"
+    ],
+    "correct": 1,
+    "explanation": "Asmuo pripažįstamas kaltu dėl administracinio nusižengimo, jeigu jį padarė tyčia arba dėl neatsargumo – tai dvi ANK numatytos kaltės formos."
+  },
+  {
+    "id": 27,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina administracinius teisinius santykius?",
+    "options": [
+      "Administraciniai teisiniai santykiai visada kyla tik specialaus subjekto iniciatyva",
+      "Administracinių teisinių santykių šalys visada yra juridiškai lygios",
+      "Administraciniai teisiniai santykiai gali kilti tik esant abiejų šalių sutikimui",
+      "Atsakomybė administraciniuose teisiniuose santykiuose kyla prieš valstybę"
+    ],
+    "correct": 3,
+    "explanation": "Vienas iš administracinių teisinių santykių ypatumų – atsakomybė kyla prieš valstybę (ne prieš kitą santykio šalį), o santykiai gali kilti net nepaisant kitos šalies norų."
+  },
+  {
+    "id": 28,
+    "category": "Administracinė teisė",
+    "question": "Kuri iš šių savybių yra būdinga administracinės teisės normoms?",
+    "options": [
+      "Dauguma jų yra imperatyvios",
+      "Dauguma jų yra disposityvios",
+      "Jos negali reglamentuoti vidaus valdymo klausimų",
+      "Jas leidžia tik Seimas tiesiogiai"
+    ],
+    "correct": 0,
+    "explanation": "Administracinės teisės normų ypatumai: dauguma jų yra imperatyvios ir poįstatyminio pobūdžio, o jas gali taikyti platus subjektų ratas."
+  },
+  {
+    "id": 29,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina subsidiarumo principą administracinėje teisėje?",
+    "options": [
+      "Administracinio sprendimo mastas ir priemonės turi atitikti būtinus ir pagrįstus tikslus",
+      "Viešojo administravimo subjektai privalo vengti bet kokio įsikišimo į privatų asmenų gyvenimą",
+      "Kiekvienos valdžios institucijos veikla turi būti grindžiama viešumo ir skaidrumo reikalavimais",
+      "Viešojo administravimo subjektų sprendimai priimami tuo lygiu, kuriame jie yra efektyviausi"
+    ],
+    "correct": 3,
+    "explanation": "Subsidiarumo principas reiškia, kad viešojo administravimo subjektų sprendimai turi būti priimami ir įgyvendinami tuo sistemos lygiu, kuriame jie yra efektyviausi."
+  },
+  {
+    "id": 30,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių teiginių teisingai apibūdina faktinį teisinės atsakomybės pagrindą?",
+    "options": [
+      "Valstybės institucijų procesinė veikla tiriant ir nagrinėjant bylą bei skiriant nuobaudą",
+      "Teisės pažeidimas – priešinga teisei kalta veika",
+      "Teisės aktas, kuriame numatytos sankcijos už tam tikrą veiką",
+      "Kompetentingos institucijos nutarimas dėl atsakomybės taikymo"
+    ],
+    "correct": 1,
+    "explanation": "Faktinis teisinės atsakomybės pagrindas yra pats teisės pažeidimas (kalta, priešinga teisei veika), skirtingai nuo norminio (teisės aktas) ir procesinio (institucijų procesinė veikla) pagrindų."
+  },
+  {
+    "id": 31,
+    "category": "Administracinė teisė",
+    "question": "Kaip apibrėžiamas viešasis administravimas pagal LR Viešojo administravimo įstatymą?",
+    "options": [
+      "Teisės aktais reglamentuota viešojo administravimo subjektų veikla, skirta teisės aktams įgyvendinti",
+      "Teismų ir prokuratūros veikla nagrinėjant ginčus viešojo valdymo srityje",
+      "Seimo ir Prezidento bendradarbiavimas įgyvendinant valstybės politiką",
+      "Savivaldybių institucijų veikla sprendžiant vietos bendruomenės klausimus"
+    ],
+    "correct": 0,
+    "explanation": "VAĮ 2 str. 18 p. viešasis administravimas apibrėžiamas kaip teisės aktais reglamentuota viešojo administravimo subjektų veikla, skirta teisės aktams įgyvendinti."
+  },
+  {
+    "id": 32,
+    "category": "Administracinė teisė",
+    "question": "Kas yra vyriausiasis Lietuvos Respublikos ginkluotųjų pajėgų vadas?",
+    "options": [
+      "Ministras Pirmininkas",
+      "Krašto apsaugos ministras",
+      "Respublikos Prezidentas",
+      "Kariuomenės vadas"
+    ],
+    "correct": 2,
+    "explanation": "Pagal Konstituciją Respublikos Prezidentas yra vyriausiasis ginkluotųjų pajėgų vadas."
+  },
+  {
+    "id": 33,
+    "category": "Administracinė teisė",
+    "question": "Kas skiria Ministrą Pirmininką pagal Lietuvos Respublikos Konstituciją?",
+    "options": [
+      "Respublikos Prezidentas savarankiškai",
+      "Seimas slaptu balsavimu",
+      "Ministrų kabinetas renkamas balsavimu",
+      "Respublikos Prezidentas Seimo pritarimu"
+    ],
+    "correct": 3,
+    "explanation": "Pagal Konstituciją Respublikos Prezidentas Seimo pritarimu skiria ir atleidžia Ministrą Pirmininką."
+  },
+  {
+    "id": 34,
+    "category": "Administracinė teisė",
+    "question": "Kas yra centrinės vykdomosios valdžios institucijos?",
+    "options": [
+      "Apskritys ir savivaldybės",
+      "Regionų plėtros tarybos ir Vyriausybės atstovai",
+      "Teismai ir generalinė prokuratūra",
+      "Ministerijos ir vyriausybės įstaigos"
+    ],
+    "correct": 3,
+    "explanation": "Vykdomosios valdžios hierarchijoje centrinę grandį sudaro ministerijos ir vyriausybės įstaigos."
+  },
+  {
+    "id": 35,
+    "category": "Administracinė teisė",
+    "question": "Administracinis nusižengimas yra:",
+    "options": [
+      "Bet koks teisės normų pažeidimas, kuriam taikoma administracinė sankcija",
+      "ANK uždrausta kaltininko padaryta pavojinga veika (veikimas arba neveikimas), atitinkanti administracinio nusižengimo požymius",
+      "Nusikalstama veika, kuriai taikomos lengvesnės – administracinės – bausmės",
+      "Tarnybinis valstybės tarnautojo nusižengimas vykdant viešojo administravimo funkcijas"
+    ],
+    "correct": 1,
+    "explanation": "ANK 5 str. 1 d. administracinis nusižengimas yra ANK uždrausta kaltininko padaryta pavojinga veika, atitinkanti administracinio nusižengimo požymius."
+  },
+  {
+    "id": 36,
+    "category": "Administracinė teisė",
+    "question": "Kokios yra administracinės nuobaudos rūšys pagal ANK?",
+    "options": [
+      "Įspėjimas, papeikimas ir bauda",
+      "Bauda, areštas ir viešieji darbai",
+      "Įspėjimas, bauda ir viešieji darbai",
+      "Įspėjimas, bauda, viešieji darbai ir specialiosios teisės atėmimas"
+    ],
+    "correct": 2,
+    "explanation": "ANK 23 str. nustatytos trys administracinių nuobaudų rūšys: įspėjimas, bauda ir viešieji darbai."
+  },
+  {
+    "id": 37,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių yra administracinio poveikio priemonė (o ne administracinė nuobauda)?",
+    "options": [
+      "Asmeniui suteiktos specialiosios teisės atėmimas",
+      "Bauda",
+      "Įspėjimas",
+      "Viešieji darbai"
+    ],
+    "correct": 0,
+    "explanation": "Specialiosios teisės atėmimas yra administracinio poveikio priemonė, o bauda, įspėjimas ir viešieji darbai yra administracinės nuobaudos."
+  },
+  {
+    "id": 38,
+    "category": "Administracinė teisė",
+    "question": "Kuris iš šių yra aplinkybė, pašalinanti administracinę atsakomybę?",
+    "options": [
+      "Pirminis nusižengimas",
+      "Gera finansinė padėtis",
+      "Būtinasis reikalingumas",
+      "Amžiaus sulaukimas po nusižengimo padarymo"
+    ],
+    "correct": 2,
+    "explanation": "Būtinasis reikalingumas (veika siekiant išvengti didesnės žalos) yra viena iš aplinkybių, pašalinančių administracinę atsakomybę."
+  },
+  {
+    "id": 39,
+    "category": "Administracinė teisė",
+    "question": "Kai pareigūnas nustato mažai pavojingą administracinio nusižengimo požymių turinčią veiką, jis gali:",
+    "options": [
+      "Skirti tik įspėjimą be baudos",
+      "Perduoti bylą teismui galutiniam sprendimui",
+      "Privalo pradėti teiseną, bet skirti mažesnę baudą",
+      "Nepradėti administracinio nusižengimo teisenos ir pareikšti asmeniui žodinę pastabą"
+    ],
+    "correct": 3,
+    "explanation": "Nustačius mažai pavojingą veiką, pareigūnas gali nepradėti administracinio nusižengimo teisenos ir pareikšti žodinę pastabą."
+  },
+  {
+    "id": 40,
+    "category": "Administracinė teisė",
+    "question": "Administracinių nusižengimų bylas pirmąja instancija nagrinėja:",
+    "options": [
+      "Apygardų administraciniai teismai",
+      "Apygardų teismai",
+      "Apylinkių teismai",
+      "Lietuvos vyriausiasis administracinis teismas"
+    ],
+    "correct": 2,
+    "explanation": "Pagal ANK administracinių nusižengimų bylas pirmąja instancija nagrinėja apylinkių teismai."
+  },
+  {
+    "id": 41,
+    "category": "Administracinė teisė",
+    "question": "Administracinis nurodymas siūlo baudą sumokėti per:",
+    "options": [
+      "20 kalendorinių dienų; baudos dydis – pusė minimalios baudos",
+      "15 kalendorinių dienų; baudos dydis – pusė minimalios baudos",
+      "10 kalendorinių dienų; baudos dydis – minimali bauda",
+      "30 kalendorinių dienų; baudos dydis – ketvirtadalis minimalios baudos"
+    ],
+    "correct": 1,
+    "explanation": "ANK 610 str. administracinis nurodymas siūlo per 15 dienų sumokėti baudą, lygią pusei minimalios baudos."
+  },
+  {
+    "id": 42,
+    "category": "Administracinė teisė",
+    "question": "Kuriai vykdomosios valdžios institucijų grupei priklauso Vyriausybės atstovai apskrityse?",
+    "options": [
+      "Centrinėms vykdomosios valdžios institucijoms",
+      "Teritorinėms vykdomosios valdžios struktūroms",
+      "Regioninėms vykdomosios valdžios institucijoms",
+      "Savivaldybių administravimo subjektams"
+    ],
+    "correct": 1,
+    "explanation": "Vyriausybės atstovai apskrityse priklauso teritorinėms vykdomosios valdžios struktūroms."
+  },
+  {
+    "id": 43,
+    "category": "Administracinė teisė",
+    "question": "Svarbiausia viešojo valdymo veiklos forma yra:",
+    "options": [
+      "Teismo sprendimas arba prokuroro nutarimas",
+      "Seimo įstatymas arba Prezidento dekretas",
+      "Administracinė sutartis arba rašytinis susitarimas",
+      "Norminis arba individualus administracinis aktas"
+    ],
+    "correct": 3,
+    "explanation": "Administracinės teisės teorijoje svarbiausia viešojo valdymo veiklos forma yra norminis arba individualus administracinis aktas."
+  },
+  {
+    "id": 44,
+    "category": "Administracinė teisė",
+    "question": "Kurio iš šių etapų nėra administracinio teisinio reguliavimo stadijų sąraše?",
+    "options": [
+      "Normų panaikinimo stadija",
+      "Administracinių teisės normų priėmimo stadija",
+      "Subjektinių teisių ir pareigų atsiradimo stadija",
+      "Administracinės atsakomybės taikymo stadija"
+    ],
+    "correct": 0,
+    "explanation": "Administracinio teisinio reguliavimo sistema apima 5 stadijas: normų priėmimą, teisių ir pareigų atsiradimą, konkretizavimą, įgyvendinimą ir atsakomybės taikymą. Normų panaikinimo stadija į šį sąrašą neįeina."
+  },
+  {
+    "id": 45,
+    "category": "Administracinė teisė",
+    "question": "Kokia institucija nagrinėja apeliacinius skundus dėl apylinkės teismo nutarimų administracinio nusižengimo byloje?",
+    "options": [
+      "Apygardos administracinis teismas",
+      "Lietuvos vyriausiasis administracinis teismas",
+      "Aukščiausiasis Teismas",
+      "Apygardos teismas"
+    ],
+    "correct": 3,
+    "explanation": "Apylinkės teismo nutarimai administracinio nusižengimo byloje skundžiami apygardos teismui apeliacine tvarka per 20 dienų."
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "Profesorės Huinia",
+  "short_name": "Huinia",
+  "description": "Bakalaurinio gynimosi mokymosi programėlė su adaptyvia viktorina ir progreso sekimu.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#fff7fb",
+  "theme_color": "#f7a8c8",
+  "lang": "lt",
+  "categories": ["education", "productivity"],
+  "prefer_related_applications": false
+}

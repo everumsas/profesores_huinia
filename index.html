@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="lt">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#f7a8c8" />
+  <title>Profesorės Huinia</title>
+  <link rel="manifest" href="manifest.json" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <div class="container">
+
+    <header class="header top-panel">
+      <div class="brand">
+        <div class="brand-icon">PH</div>
+        <div>
+          <h1>Profesorės Huinia</h1>
+          <p>Bakalaurinio gynimosi treniruoklis</p>
+        </div>
+      </div>
+
+      <button id="resetBtn" class="secondary-btn">Atstatyti progresą</button>
+    </header>
+
+    <section class="stats-grid top-panel">
+      <div class="card stat-card">
+        <div class="stat-value" id="masteredCount">0</div>
+        <div class="stat-label">Išmokta</div>
+      </div>
+      <div class="card stat-card">
+        <div class="stat-value" id="totalCount">0</div>
+        <div class="stat-label">Iš viso</div>
+      </div>
+      <div class="card stat-card">
+        <div class="stat-value" id="remainingCount">0</div>
+        <div class="stat-label">Liko</div>
+      </div>
+    </section>
+
+    <section class="card top-panel">
+      <div class="section-title">Pažanga</div>
+      <div class="progress-text" id="progressText">0 / 0 išmokta</div>
+      <div class="progress-bar">
+        <div class="progress-fill" id="progressFill"></div>
+      </div>
+    </section>
+
+    <section class="card start-card" id="startPanel">
+      <div class="mini-label">Bakalaurinio gynimosi režimas</div>
+      <div class="section-title">Pasiruošusi profesorei?</div>
+      <p class="muted">
+        Čia gali treniruotis pagal savo baigiamojo darbo turinį. Klausimai kartosis protingai:
+        ką atsakai gerai, rodys rečiau; kur klysti, rodys dažniau.
+      </p>
+
+      <p class="muted load-status" id="loadStatus" aria-live="polite"></p>
+
+      <div class="actions">
+        <button id="startBtn" class="main-btn">Pradėti testą</button>
+      </div>
+
+      <div class="app-version" id="appVersion"></div>
+    </section>
+
+    <section class="card hidden" id="quizPanel">
+      <div class="quiz-nav">
+        <button id="menuBtn" class="secondary-btn">← Į meniu</button>
+      </div>
+
+      <div class="quiz-topbar">
+        <span id="questionCategory" class="badge"></span>
+        <span id="questionCounter" class="muted small"></span>
+      </div>
+
+      <h2 id="questionTitle" class="question-title"></h2>
+
+      <div id="answersContainer" class="answers"></div>
+
+      <div id="resultBox" class="result-box hidden">
+        <div id="resultTitle" class="result-title"></div>
+        <p id="resultExplanation"></p>
+        <p id="correctAnswerText"></p>
+
+        <div class="actions">
+          <button id="nextBtn" class="main-btn">Kitas klausimas</button>
+          <button id="backBtn" class="secondary-btn">Grįžti į pradžią</button>
+        </div>
+      </div>
+    </section>
+
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>
